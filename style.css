@@ -36,7 +36,7 @@ img {
 
 #imgcontainer{
     display: block;
-    margin-top: 0%;
+    margin-top: -3%;
     position:relative;
     top:100px;
 }
@@ -89,4 +89,10 @@ a {
 
 #construction-notice {
     font-size: 10px;
+}
+
+#location {
+    font-size: 18px;
+    margin-top:0.5%;
+    color: #d9d9d7;
 }
